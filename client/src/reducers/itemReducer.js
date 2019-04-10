@@ -1,5 +1,4 @@
 import {GET_ITEMS, ADD_ITEMS, DELETE_ITEMS, ITEMS_LOADING} from '../actions/types'
-import { strictEqual } from 'assert';
 
 const initialState = {
     items : [],
